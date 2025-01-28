@@ -1,6 +1,6 @@
 ## Olá, sou Tammy Teixeira 👋
 
-🌱 Em transição de carreira, migrando para área de TI, espeficiamente Análise de Dados em Python.
+🌱 Em transição de carreira, migrando para área de TI, espeficiamente Data Analytics, usando linguagens como Python, SQL.
 
 <div>
   <a href="https://github.com/TmTeixeira">
